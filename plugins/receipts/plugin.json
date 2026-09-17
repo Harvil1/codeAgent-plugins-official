@@ -1,0 +1,5 @@
+{
+  "name": "receipts",
+  "description": "A personal Claude Code impact report for justifying your usage to a manager or a self-review: what you shipped, which pr",
+  "enabled": true
+}

@@ -1,0 +1,5 @@
+{
+  "name": "swift-lsp",
+  "description": "Swift language server (SourceKit-LSP) for code intelligence",
+  "enabled": true
+}

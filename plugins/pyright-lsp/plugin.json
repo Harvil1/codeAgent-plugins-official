@@ -1,0 +1,5 @@
+{
+  "name": "pyright-lsp",
+  "description": "Python language server (Pyright) for type checking and code intelligence",
+  "enabled": true
+}

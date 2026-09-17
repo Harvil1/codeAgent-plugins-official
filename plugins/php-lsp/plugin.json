@@ -1,0 +1,5 @@
+{
+  "name": "php-lsp",
+  "description": "PHP language server (Intelephense) for code intelligence",
+  "enabled": true
+}

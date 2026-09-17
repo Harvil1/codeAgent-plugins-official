@@ -1,0 +1,5 @@
+{
+  "name": "kotlin-lsp",
+  "description": "Kotlin language server for code intelligence",
+  "enabled": true
+}

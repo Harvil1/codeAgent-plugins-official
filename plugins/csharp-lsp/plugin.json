@@ -1,0 +1,5 @@
+{
+  "name": "csharp-lsp",
+  "description": "C# language server for code intelligence",
+  "enabled": true
+}

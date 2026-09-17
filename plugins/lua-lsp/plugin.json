@@ -1,0 +1,5 @@
+{
+  "name": "lua-lsp",
+  "description": "Lua language server for code intelligence",
+  "enabled": true
+}

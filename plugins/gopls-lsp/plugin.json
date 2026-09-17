@@ -1,0 +1,5 @@
+{
+  "name": "gopls-lsp",
+  "description": "Go language server for code intelligence and refactoring",
+  "enabled": true
+}
